@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="height: 20px; width: 20px; background-color: purple;">
-  bolinha
-</div>
