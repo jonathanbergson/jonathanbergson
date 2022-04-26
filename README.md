@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-### Jogos que desenvolvi no curso de Jogos Digitais
+### Meus Jogos
 
-###### Projetos desenvolvidos para a disciplina `Trabalho Interdicipinar`
+#### Estágio 'Espaço do Conhecimento UFMG'
 
-- [Pandora](https://github.com/jonathanbergson/TI1_Shooter_Pandora) é um shooter desenvolvido em 2020. [Vamos jogar?](https://jonathanbergson.itch.io/pandora)
-- [Hotliner](https://github.com/jonathanbergson/TI1_Runner_Hotliner) é um runner mobile desenvolvido em 2020 - [código](https://jonathanbergson.itch.io/hotliner)
-- Block's é um simulador de contrução de veículos desenvolvido em 2022. [Sobre o projeto](https://github.com/jonathanbergson/TI1_Runner_Hotliner)
+- [Venda Sertão Mundo](https://seufulo.netlify.app/1.0/) um click'n point de encontrar itens escondidos desenvolvido em 2021.
 
-###### Outro projetos ou prototipos
+#### Desenvolvidos no curso de Jogos Digitais
+
+###### Para a disciplina 'Trabalho Interdicipinar'.
+
+- [Pandora](https://github.com/jonathanbergson/TI1_Shooter_Pandora) é um shooter desenvolvido em 2020 - [Quero Jogar!](https://jonathanbergson.itch.io/pandora)
+- [Hotliner](https://github.com/jonathanbergson/TI1_Runner_Hotliner) é um runner mobile desenvolvido em 2020 - [Quero Jogar!](https://jonathanbergson.itch.io/hotliner)
+- [Block's](https://github.com/jonathanbergson/TI1_Runner_Hotliner) é um simulador de contrução de veículos desenvolvido em 2022.
+
+###### Outros projetos e protótipos.
 
 - [Robot Hook](https://github.com/jonathanbergson/LD_Game_RobotHook)
 
