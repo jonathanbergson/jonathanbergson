@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### Meus Jogos
+### Meus Jogos 👾
 
-#### 🕹️ Estágio 'Espaço do Conhecimento UFMG'
+#### Estágio 'Espaço do Conhecimento UFMG' 🕹️ 
 
 - [Venda Sertão Mundo](https://seufulo.netlify.app/1.0/) um click'n point de encontrar itens escondidos desenvolvido em 2021.
 
-#### 🎮 Desenvolvidos no curso de Jogos Digitais
+#### Desenvolvidos no curso de Jogos Digitais 🎮 
 
 ###### Para a disciplina 'Trabalho Interdicipinar'.
 
