@@ -17,6 +17,8 @@
 ###### Outros projetos e protótipos.
 
 - [Robot Hook](https://github.com/jonathanbergson/LD_Game_RobotHook)
+- [Duck Shooting](https://github.com/jonathanbergson/AED1_Game_DuckShooting)
+- [8Puzzle](https://github.com/jonathanbergson/AED1_Game_8Puzzle)
 
 <!--
 **jonathanbergson/jonathanbergson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
