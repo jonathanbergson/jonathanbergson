@@ -11,8 +11,8 @@
 ###### Para a disciplina 'Trabalho Interdicipinar'.
 
 - [Pandora](https://github.com/jonathanbergson/TI1_Shooter_Pandora) é um shooter desenvolvido em 2020 - [Quero Jogar!](https://jonathanbergson.itch.io/pandora)
-- [Hotliner](https://github.com/jonathanbergson/TI1_Runner_Hotliner) é um runner mobile desenvolvido em 2020 - [Quero Jogar!](https://jonathanbergson.itch.io/hotliner)
-- [Block's](https://github.com/jonathanbergson/TI1_Runner_Hotliner) é um simulador de contrução de veículos desenvolvido em 2022.
+- [Hotliner](https://github.com/jonathanbergson/TI2_Runner_Hotliner) é um runner mobile desenvolvido em 2020 - [Quero Jogar!](https://jonathanbergson.itch.io/hotliner)
+- [Block's](https://github.com/jonathanbergson/TI3_Simulators_Blocks) é um simulador de contrução de veículos desenvolvido em 2022.
 
 ###### Outros projetos e protótipos.
 
