@@ -1,5 +1,12 @@
 ## Hey Joe
 
+<!--
+[![visits Badge](https://badges.pufler.dev/visits/jonathanbergson/jonathanbergson)](https://badges.pufler.dev/visits/jonathanbergson/jonathanbergson)
+Welcome to my ✨ repository. ✨ 
+-->
+
+Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
+
 [![Website Badge](https://img.shields.io/badge/Bergson.me-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbergson/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
@@ -16,7 +23,7 @@ https://shields.io/
 https://badgen.net/
 -->
 
-### Meus Jogos 👾
+### 👾 Conheça meus jogos 
 
 #### Estágio 'Espaço do Conhecimento UFMG' 🕹️ 
 
