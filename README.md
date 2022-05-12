@@ -4,14 +4,6 @@
 [![visits Badge](https://badges.pufler.dev/visits/jonathanbergson/jonathanbergson)](https://badges.pufler.dev/visits/jonathanbergson/jonathanbergson)
 Welcome to my ✨ repository. ✨ 
 -->
-
-Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
-
-[![Website Badge](https://img.shields.io/badge/Bergson.me-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbergson/)
-[![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JonathanBergson)
-
 <!--
 badge reference
 https://dev.to/envoy_/150-badges-for-github-pnk
@@ -22,6 +14,32 @@ https://envoy-vc.github.io/Badges-for-GitHub/
 https://shields.io/
 https://badgen.net/
 -->
+
+Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
+
+[![Website Badge](https://img.shields.io/badge/Bergson.me-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbergson/)
+[![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JonathanBergson)
+
+<details>
+<summary><h3>🧑‍💻 Experiência</h3></summary>
+
+- Track.co
+- Espaço do Conhecimento UFMG
+- Hotmart
+- Mastermaq Software
+
+</details>
+<details>
+<summary><h3>🎓 Formação acadêmica</h3></summary>
+  
+- Jogos Digitais - Pontifícia Universidade Católica de Minas Gerais
+- Produção Multimídia - UNIBH, Centro Universitário de Belo Horizonte
+- Aprendizagem Industrial em Serigrafia e Flexografia, Impressão gráfica - SENAI BH CECOTEG
+- Técnico em Comunicação Visual, Design Gráfico - SENAI BH CECOTEG
+
+</details>
 
 ### 👾 Conheça meus jogos 
 
