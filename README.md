@@ -33,7 +33,7 @@ Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
 </details>
 
 <details>
-<summary><h3>🎓 Formação acadêmica</h3></summary>
+<summary><h3 style="margin-top: 0;">🎓 Formação acadêmica</h3></summary>
   
 - Jogos Digitais - Pontifícia Universidade Católica de Minas Gerais
 - Produção Multimídia - UNIBH, Centro Universitário de Belo Horizonte
@@ -43,7 +43,7 @@ Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
 </details>
 
 <details open>
-<summary><h3>👾 Conheça meus jogos</h3></summary>
+<summary><h3 style="margin-top: 0;">👾 Conheça meus jogos</h3></summary>
   
 #### Estágio 'Espaço do Conhecimento UFMG' 🕹️ 
 
