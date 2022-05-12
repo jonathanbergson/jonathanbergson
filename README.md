@@ -1,8 +1,9 @@
 ## Hey Joe
 
-[![Website Badge](https://img.shields.io/badge/Bergson.me-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
+[![Website Badge](https://img.shields.io/badge/Bergson.me-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbergson/)
-[![Itch,io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
+[![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JonathanBergson)
 
 <!--
 badge reference
