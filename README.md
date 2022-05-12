@@ -32,25 +32,10 @@ https://badgen.net/
 
 ###### Outros projetos e protótipos.
 
-- [Robot Hook](https://github.com/jonathanbergson/LD_Game_RobotHook)
-- [Duck Shooting](https://github.com/jonathanbergson/AED1_Game_DuckShooting)
-- [8Puzzle](https://github.com/jonathanbergson/AED1_Game_8Puzzle)
+- [Robot Hook](https://github.com/jonathanbergson/LD_Game_RobotHook) Level Design - 2021.2
+- [Duck Shooting](https://github.com/jonathanbergson/AED1_Game_DuckShooting) AED1 - 2021.2
+- [8Puzzle](https://github.com/jonathanbergson/AED1_Game_8Puzzle) AED1 - 2021.2
 
 ###### Etc
 
 - [Filosofia em Jogos](https://filosofia-em-jogos.netlify.app/) um pequeno blog que criamos para falar de jogos na disciplina de Filosofia.
-
-<!--
-**jonathanbergson/jonathanbergson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
