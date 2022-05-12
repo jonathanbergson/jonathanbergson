@@ -31,6 +31,7 @@ Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
 - Mastermaq Software
 
 </details>
+
 <details>
 <summary><h3>🎓 Formação acadêmica</h3></summary>
   
@@ -41,8 +42,9 @@ Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
 
 </details>
 
-### 👾 Conheça meus jogos 
-
+<details open>
+<summary><h3>👾 Conheça meus jogos</h3></summary>
+  
 #### Estágio 'Espaço do Conhecimento UFMG' 🕹️ 
 
 - [Venda Sertão Mundo](https://seufulo.netlify.app/1.0/) um click'n point de encontrar itens escondidos desenvolvido em 2021.
@@ -64,3 +66,5 @@ Sou o Jonathan Bergson, seja bem vindo ao meu ✨ repositório ✨
 ###### Etc
 
 - [Filosofia em Jogos](https://filosofia-em-jogos.netlify.app/) um pequeno blog que criamos para falar de jogos na disciplina de Filosofia.
+  
+</details>
