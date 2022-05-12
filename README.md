@@ -1,6 +1,14 @@
 ## Hey Joe
 
-[![Linkedin Badge](https://www.linkedin.com/in/jonathanbergson/)
+[![Website Badge](https://img.shields.io/badge/Bergson.me-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jonathanbergson.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanbergson/)
+[![Itch,io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonathanbergson.itch.io/)
+
+<!--
+badge reference
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://shields.io/
+-->
 
 ### Meus Jogos 👾
 
