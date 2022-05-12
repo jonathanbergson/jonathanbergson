@@ -8,7 +8,12 @@
 <!--
 badge reference
 https://dev.to/envoy_/150-badges-for-github-pnk
+
+https://github.com/Envoy-VC/Badges-for-GitHub
+https://envoy-vc.github.io/Badges-for-GitHub/
+
 https://shields.io/
+https://badgen.net/
 -->
 
 ### Meus Jogos 👾
