@@ -1,5 +1,7 @@
 ## Hey Joe
 
+[![Linkedin Badge](https://www.linkedin.com/in/jonathanbergson/)
+
 ### Meus Jogos 👾
 
 #### Estágio 'Espaço do Conhecimento UFMG' 🕹️ 
