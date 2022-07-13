@@ -3,6 +3,7 @@
 ###### Sites de badges:
 
 - https://shields.io/
+  - https://simpleicons.org/?q=csharp
 - https://badgen.net/
 - https://badges.pufler.dev/
 
