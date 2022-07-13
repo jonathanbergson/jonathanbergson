@@ -13,20 +13,20 @@
 <summary><h3>🐙Tecnologias</h3></summary>
 
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-41454A?style=flat-square&logo=nuxt.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-23282C?style=flat-square&logo=vuedotjs)
-![React](https://img.shields.io/badge/-React-23282C?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-23282C?style=flat-square&logo=vite)
-![Webpack](https://img.shields.io/badge/-Webpack-23282C?style=flat-square&logo=webpack)
+![Vue.js](https://img.shields.io/badge/-Vue.js-41454A?style=flat-square&logo=vuedotjs)
+![React](https://img.shields.io/badge/-React-41454A?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-41454A?style=flat-square&logo=vite)
+![Webpack](https://img.shields.io/badge/-Webpack-41454A?style=flat-square&logo=webpack)
 
-![Node.js](https://img.shields.io/badge/-Nodejs-23282C?style=flat-square&logo=Node.js)
-![Nest.js](https://img.shields.io/badge/-NestJs-23282C?style=flat-square&logo=NestJS&logoColor=E0234E)
-![Docker](https://img.shields.io/badge/-Docker-23282C?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-23282C?style=flat-square&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-23282C?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Nodejs-41454A?style=flat-square&logo=Node.js)
+![Nest.js](https://img.shields.io/badge/-NestJs-41454A?style=flat-square&logo=NestJS&logoColor=E0234E)
+![Docker](https://img.shields.io/badge/-Docker-41454A?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-41454A?style=flat-square&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-41454A?style=flat-square&logo=mongodb)
 
-![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-23282C?style=flat-square&logo=GodotEngine)
-![Unity](https://img.shields.io/badge/-Unity-23282C?style=flat-square&logo=Unity)
-![C#](https://img.shields.io/badge/-CSharp-23282C?style=flat-square&logo=CSharp)
+![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-41454A?style=flat-square&logo=GodotEngine)
+![Unity](https://img.shields.io/badge/-Unity-41454A?style=flat-square&logo=Unity)
+![C#](https://img.shields.io/badge/-CSharp-41454A?style=flat-square&logo=CSharp)
 </details>
 
 <details>
