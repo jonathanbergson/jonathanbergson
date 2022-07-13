@@ -12,7 +12,7 @@
 <details open>
 <summary><h3>🐙Tecnologias</h3></summary>
 
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-23282C?style=flat-square&logo=nuxt.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-41454A?style=flat-square&logo=nuxt.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-23282C?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-23282C?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-23282C?style=flat-square&logo=vite)
