@@ -26,7 +26,7 @@
 
 ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-41454A?style=flat-square&logo=GodotEngine)
 ![Unity](https://img.shields.io/badge/-Unity-41454A?style=flat-square&logo=Unity)
-![C#](https://img.shields.io/badge/-CSharp-41454A?style=flat-square&logo=CSharp&logoColor=8e44ad)
+![C#](https://img.shields.io/badge/-CSharp-41454A?style=flat-square&logo=CSharp&logoColor=706fd3)
 </details>
 
 <details>
