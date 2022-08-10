@@ -20,9 +20,9 @@
 
 ![Node.js](https://img.shields.io/badge/-Nodejs-41454A?style=flat-square&logo=Node.js)
 ![Nest.js](https://img.shields.io/badge/-NestJs-41454A?style=flat-square&logo=NestJS&logoColor=E0234E)
-![Docker](https://img.shields.io/badge/-Docker-41454A?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-41454A?style=flat-square&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-41454A?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-41454A?style=flat-square&logo=docker)
 
 ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-41454A?style=flat-square&logo=GodotEngine)
 ![Unity](https://img.shields.io/badge/-Unity-41454A?style=flat-square&logo=Unity)
