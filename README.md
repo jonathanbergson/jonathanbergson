@@ -65,7 +65,7 @@
 
 #### Estágio 'Espaço do Conhecimento UFMG' 🕹️
 
-- [Venda Sertão Mundo](https://seufulo.netlify.app/1.0/) um click'n point de encontrar itens escondidos desenvolvido em 2021.
+- [Venda Sertão Mundo](https://projeto-sertao-mundo.github.io/venda/) um click'n point de encontrar itens escondidos desenvolvido em 2021.
 
 #### Desenvolvidos no curso de Jogos Digitais 🎮
 
