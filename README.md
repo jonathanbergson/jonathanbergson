@@ -33,17 +33,18 @@
 <summary><h3>👨‍💻 Experiência</h3></summary>
 
 - Track.co
-  - Front End Web Developer ∙ set de 2021
+  - Tech Lead ∙ out de 2022
+  - Front End Web Developer ∙ set de 2021 - set de 2022
 - Espaço do Conhecimento UFMG
   - Estágio desenvolvedor de jogos (Godot) ∙ mar de 2021 - ago de 2021
 - Hotmart
   - Mobile Developer ∙ jan de 2019 - nov de 2019
   - Front End Web Developer ∙ out de 2018 - dez de 2018
 - Mastermaq Software
-  - Full Stack Javascript Developer ∙ ago de 2017 - set de 2018
-  - Front End Engineer ∙ mar de 2017 - ago de 2017
+  - Full Stack Developer ∙ ago de 2017 - set de 2018
+  - Front End Web Developer ∙ mar de 2017 - ago de 2017
 - Cora Educação Facilitada
-  - Front End Engineer ∙ jan de 2015 - dez de 2016
+  - Front End Web Developer ∙ jan de 2015 - dez de 2016
 - FIEMG
   - Técnico Trainee ∙ jan de 2014 - dez de 2014
   - Competidor na ocupação 17 Web Design na Olimpíadas do Conhecimento ∙ jan de 2013 - dez de 2014
